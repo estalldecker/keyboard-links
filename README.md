@@ -59,8 +59,11 @@ My keyboard
 - [Manual](https://github.com/manna-harbour/miryoku/tree/master/docs/reference)
 - [Root repo](https://github.com/manna-harbour/miryoku)
 - [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk)
-- [Miryoku Customisation Documentation](https://github.com/manna-harbour/miryoku/discussions/85)
-- [Custom Behaviors](https://github.com/manna-harbour/miryoku/discussions/131)
+  - Some docs:
+    - [Miryoku Customisation Documentation #85](https://github.com/manna-harbour/miryoku/discussions/85)
+    - [Custom Behaviors](https://github.com/manna-harbour/miryoku/discussions/131)
+    - [Confusion about custom_config.h #174 [QMK]](https://github.com/manna-harbour/miryoku/discussions/174)
+    - [Confusion with custom macros and combos #233 [ZMK]](https://github.com/manna-harbour/miryoku/discussions/233)
 
 ### Keymap editor
 - [Keymap editor - Github](https://github.com/nickcoutsos/keymap-editor)
