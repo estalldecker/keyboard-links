@@ -44,7 +44,7 @@ My keyboard
 - https://github.com/urob/zmk-nodefree-config
 - https://github.com/jasoneliu/zmk-config
 
-### Redditz
+### Reddit
 - https://www.reddit.com/r/ErgoMechKeyboards/
 - https://jhelvy.shinyapps.io/splitkbcompare/
 - [https://www.reddit.com/r/ErgoMechKeyboards/](https://www.reddit.com/r/ErgoMechKeyboards/wiki/resources/)
