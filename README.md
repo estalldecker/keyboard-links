@@ -40,7 +40,7 @@ My keyboard
   - has some nice screenshots, some combos, some links to other sites
 - https://github.com/caksoylar/zmk-config: combos, win,
 - https://github.com/caksoylar/keymap-drawer
-- https://github.com/urob/zmk-config
+- https://github.com/urob/zmk-config: "timer-less" homerow mods
 - https://github.com/urob/zmk-nodefree-config
 - https://github.com/jasoneliu/zmk-config
 
