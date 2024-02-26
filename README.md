@@ -24,7 +24,7 @@ My keyboard
 ### Repos
 - From google
   - [from this search](https://www.google.com/search?q=corne+keyboard+5+column+zmk+github&sca_esv=0f14928c59bdde74&rlz=1C1ONGR_esAR1050AR1050&sxsrf=ACQVn0_GQ938oMI1CbTIVg-RPcn5RFTbKw%3A1708916279588&ei=N_7bZbvLI4uhptQPgsK02Ag&oq=corne+keyboard+5+column+zmk+gith&gs_lp=Egxnd3Mtd2l6LXNlcnAiIGNvcm5lIGtleWJvYXJkIDUgY29sdW1uIHptayBnaXRoKgIIADIFECEYoAFI1ktQyBBY6x9wAXgAkAEAmAHGAaABxwaqAQMwLjW4AQPIAQD4AQGYAgWgAuAGwgIFECEYnwWYAwCIBgGSBwUwLjQuMQ&sclient=gws-wiz-serp#cobssid=s&ip=1) these are the first options listed:
-  - https://github.com/dukendev/corne-zmk-5-colum: it uses a lot of combos. It seems to have been created from scratch.
+  - [https://github.com/dukendev/corne-zmk-5-colum](https://github.com/dukendev/corne-zmk-5-column): it uses a lot of combos. It seems to have been created from scratch.
       Layout philosophy
       - familiar design for the qwerty alphas
       - convinience is priority and minimal by design
