@@ -63,7 +63,9 @@ My keyboard
     - [Miryoku Customisation Documentation #85](https://github.com/manna-harbour/miryoku/discussions/85)
     - [Custom Behaviors](https://github.com/manna-harbour/miryoku/discussions/131)
     - [Confusion about custom_config.h #174 [QMK]](https://github.com/manna-harbour/miryoku/discussions/174)
-    - [Confusion with custom macros and combos #233 [ZMK]](https://github.com/manna-harbour/miryoku/discussions/233)
+    - [Confusion with custom macros and combos #233 [ZMK]](https://github.com/manna-harbour/miryoku/discussions/233) how to add combos
+    - https://github.com/manna-harbour/miryoku/issues/56
+    - https://github.com/manna-harbour/miryoku_zmk/blob/d40b3e6f30d5f4652aec2583483af93dd8b19175/readme.org#key-emulation-combos
 
 ### Keymap editor
 - [Keymap editor - Github](https://github.com/nickcoutsos/keymap-editor)
