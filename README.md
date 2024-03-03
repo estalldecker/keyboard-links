@@ -80,7 +80,7 @@ My keyboard
 ### Some Links
 - [A guide to home row mods](https://precondition.github.io/home-row-mods)
 - [Designing a 36-key custom keyboard layout](https://peterxjang.com/blog/designing-a-36-key-custom-keyboard-layout.html): some interesting ideas I can use, but uses QMK, not ZMK
-- [Building A Perfect Keyboard](https://medium.com/@boris.churzin/building-a-perfect-keyboard-2dd30dd4b096): nive article, ends up building a 34 keyboard...the layout seems to be a little complicated
+- [Building A Perfect Keyboard](https://medium.com/@boris.churzin/building-a-perfect-keyboard-2dd30dd4b096): nice article, ends up building a 34 keyboard...the layout seems to be a little complicated
 - [My split keyboard layout: A 60% Miryoku](https://jurf.github.io/2023/07/11/60-percent-miryoku/)
 - https://monkeytype.com/
 - https://ranelpadon.github.io/ngram-type/
