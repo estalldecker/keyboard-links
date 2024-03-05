@@ -21,6 +21,18 @@ My keyboard
 - https://zmk.dev/docs
 - https://github.com/zmkfirmware/zmk
 
+### Miryoku
+- [Manual](https://github.com/manna-harbour/miryoku/tree/master/docs/reference)
+- [Root repo](https://github.com/manna-harbour/miryoku)
+- [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk)
+  - Some docs:
+    - [Miryoku Customisation Documentation #85](https://github.com/manna-harbour/miryoku/discussions/85)
+    - [Custom Behaviors](https://github.com/manna-harbour/miryoku/discussions/131)
+    - [Confusion about custom_config.h #174 [QMK]](https://github.com/manna-harbour/miryoku/discussions/174)
+    - [Confusion with custom macros and combos #233 [ZMK]](https://github.com/manna-harbour/miryoku/discussions/233) how to add combos
+    - https://github.com/manna-harbour/miryoku/issues/56
+    - https://github.com/manna-harbour/miryoku_zmk/blob/d40b3e6f30d5f4652aec2583483af93dd8b19175/readme.org#key-emulation-combos
+
 ### Repos
 - From google
   - [from this search](https://www.google.com/search?q=corne+keyboard+5+column+zmk+github&sca_esv=0f14928c59bdde74&rlz=1C1ONGR_esAR1050AR1050&sxsrf=ACQVn0_GQ938oMI1CbTIVg-RPcn5RFTbKw%3A1708916279588&ei=N_7bZbvLI4uhptQPgsK02Ag&oq=corne+keyboard+5+column+zmk+gith&gs_lp=Egxnd3Mtd2l6LXNlcnAiIGNvcm5lIGtleWJvYXJkIDUgY29sdW1uIHptayBnaXRoKgIIADIFECEYoAFI1ktQyBBY6x9wAXgAkAEAmAHGAaABxwaqAQMwLjW4AQPIAQD4AQGYAgWgAuAGwgIFECEYnwWYAwCIBgGSBwUwLjQuMQ&sclient=gws-wiz-serp#cobssid=s&ip=1) these are the first options listed:
@@ -55,18 +67,6 @@ My keyboard
   - [LPT: Try urob's ZMK timeless homerow mods, combos and other features](https://www.reddit.com/r/ErgoMechKeyboards/comments/11gejh3/lpt_try_urobs_zmk_timeless_homerow_mods_combos/)
   - [his github config](https://github.com/infused-kim/zmk-config/tree/chocofi/main): has some combos and good ideas, but focused on mac
 
-### Miryoku
-- [Manual](https://github.com/manna-harbour/miryoku/tree/master/docs/reference)
-- [Root repo](https://github.com/manna-harbour/miryoku)
-- [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk)
-  - Some docs:
-    - [Miryoku Customisation Documentation #85](https://github.com/manna-harbour/miryoku/discussions/85)
-    - [Custom Behaviors](https://github.com/manna-harbour/miryoku/discussions/131)
-    - [Confusion about custom_config.h #174 [QMK]](https://github.com/manna-harbour/miryoku/discussions/174)
-    - [Confusion with custom macros and combos #233 [ZMK]](https://github.com/manna-harbour/miryoku/discussions/233) how to add combos
-    - https://github.com/manna-harbour/miryoku/issues/56
-    - https://github.com/manna-harbour/miryoku_zmk/blob/d40b3e6f30d5f4652aec2583483af93dd8b19175/readme.org#key-emulation-combos
-
 ### Keymap editor
 - [Keymap editor - Github](https://github.com/nickcoutsos/keymap-editor)
 - [Keymap editor - UI](https://nickcoutsos.github.io/keymap-editor/)
@@ -82,10 +82,13 @@ My keyboard
 - [Designing a 36-key custom keyboard layout](https://peterxjang.com/blog/designing-a-36-key-custom-keyboard-layout.html): some interesting ideas I can use, but uses QMK, not ZMK
 - [Building A Perfect Keyboard](https://medium.com/@boris.churzin/building-a-perfect-keyboard-2dd30dd4b096): nice article, ends up building a 34 keyboard...the layout seems to be a little complicated
 - [My split keyboard layout: A 60% Miryoku](https://jurf.github.io/2023/07/11/60-percent-miryoku/)
-- https://monkeytype.com/
-- https://ranelpadon.github.io/ngram-type/
-- https://www.keybr.com/
 - [Tools & Tips For Learning A New Keyboard Layout (Or How To Type Faster!)](https://www.youtube.com/watch?v=sI-a64EVPPU&t=296s&ab_channel=BenVallack)
+- Learn layouts
+  - https://monkeytype.com/
+  - https://ranelpadon.github.io/ngram-type/
+  - https://www.keybr.com/
+  - [What is the most effective way to go about learning a new keyboard layout?](https://www.reddit.com/r/Colemak/comments/zzzhk5/what_is_the_most_effective_way_to_go_about/#:~:text=The%20best%20way%20to%20learn,typing%20are%20best%20for%20me.)
+  - https://gnusenpai.net/colemakclub/
 
 ### Stuff to buy???
 - https://lowprokb.ca/products/ambients-silent-choc-switches
