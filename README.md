@@ -89,6 +89,7 @@ My keyboard
   - https://www.keybr.com/
   - [What is the most effective way to go about learning a new keyboard layout?](https://www.reddit.com/r/Colemak/comments/zzzhk5/what_is_the_most_effective_way_to_go_about/#:~:text=The%20best%20way%20to%20learn,typing%20are%20best%20for%20me.)
   - https://gnusenpai.net/colemakclub/
+  - https://gist.github.com/dustypomerleau/29f5311089767cfbe5915c5743035710
 
 ### Stuff to buy???
 - https://lowprokb.ca/products/ambients-silent-choc-switches
