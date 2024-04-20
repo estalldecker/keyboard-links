@@ -90,7 +90,9 @@ My keyboard
   - [What is the most effective way to go about learning a new keyboard layout?](https://www.reddit.com/r/Colemak/comments/zzzhk5/what_is_the_most_effective_way_to_go_about/#:~:text=The%20best%20way%20to%20learn,typing%20are%20best%20for%20me.)
   - https://gnusenpai.net/colemakclub/
   - https://gist.github.com/dustypomerleau/29f5311089767cfbe5915c5743035710
-
+- Random stuff:
+  - Render images in nice view: https://discord.com/channels/675924128108118016/991852441832259714/1208752227779608636
+  - https://www.reddit.com/r/ErgoMechKeyboards/comments/15t3o6k/custom_art_on_niceview_displays/
 ### Stuff to buy???
 - https://lowprokb.ca/products/ambients-silent-choc-switches
 - https://splitkb.com/
